@@ -1,2 +1,3 @@
 # bookbot
-project about reading sripts
+BookBot is my first project!
+
